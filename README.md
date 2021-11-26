@@ -1,1 +1,1 @@
-# deepLQTSECG
+This repository contains the function used to build the 1DCNN architecture.
